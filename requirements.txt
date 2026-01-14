@@ -1,0 +1,17 @@
+# Core Data Science Libraries
+pandas>=2.0.0
+numpy>=1.24.0
+scipy>=1.10.0
+
+# LangChain and OpenAI
+langchain>=0.1.0
+langchain-openai>=0.0.5
+langchain-community>=0.0.20
+openai>=1.0.0
+
+# Vector Store
+faiss-cpu>=1.7.4
+
+
+# Utilities
+python-dotenv>=1.0.0
